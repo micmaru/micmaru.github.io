@@ -449,6 +449,7 @@ body {
   background: linear-gradient(135deg, var(--accent-dim) 0%, transparent 60%);
   opacity: 0;
   transition: opacity var(--transition);
+  pointer-events: none;
 }
 
 .project-card:hover {
