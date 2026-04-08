@@ -578,12 +578,15 @@ body {
   height: 100%;
 }
 
-.html-icon  { color: #e44d26; }
-.css-icon   { color: #264de4; }
-.js-icon    { color: #f7df1e; }
-.git-icon   { color: #f05033; }
-.github-icon{ color: var(--text-muted); }
-.claude-icon{ color: var(--accent-light); }
+.html-icon   { color: #e44d26; }
+.css-icon    { color: #264de4; }
+.js-icon     { color: #f7df1e; }
+.git-icon    { color: #f05033; }
+.github-icon { color: var(--text-muted); }
+.claude-icon { color: var(--accent-light); }
+.nodejs-icon { color: #339933; }
+.express-icon{ color: var(--text-muted); }
+.resend-icon { color: #000000; }
 
 .skill-name {
   font-size: 0.875rem;
